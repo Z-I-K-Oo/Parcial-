@@ -11,7 +11,7 @@ Este programa en C++ calcula el tiempo que tarda un demonio en recorrer una dist
    
 2. Buscar el archivo:
   ```bash
-    Codigo Version Python
+    Version_cpp
 ```
 3. Copilar el archivo C++
    ```bash
