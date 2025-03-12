@@ -1,7 +1,7 @@
 # CALCULADORA DE TIEMPO QUE TARDA UN DEMONIO EN RECORRER UNA DISTANCIA EN C++
 
 ## Introducción
-Este programa calculael tiempo que tarda un demonio en recorrer una distancia dada, basándose en su tipo y, por ende, su velocidad. El programa toma como entrada el tipo de demonio (Zombieman, Imp o Baron of Hell) y la distancia a recorrer. Luego, calcula el tiempo necesario.
+Este programa en C++ calcula el tiempo que tarda un demonio en recorrer una distancia dada, basándose en su tipo y, por ende, su velocidad. El programa toma como entrada el tipo de demonio (Zombieman, Imp o Baron of Hell) y la distancia a recorrer. Luego, calcula el tiempo necesario.
 
 ## Instalación
 1. Ingresar a el repositorio en GitHub:
