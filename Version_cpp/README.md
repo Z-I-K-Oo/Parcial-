@@ -15,7 +15,7 @@ Este programa en C++ calcula el tiempo que tarda un demonio en recorrer una dist
 ```
 3. Copilar el archivo C++
    ```bash
-   g++ demonio.cpp -o demonio
+   Parcial 1 Algoritmos.cpp
 ```
 
 4. Ejecuta el programa:
